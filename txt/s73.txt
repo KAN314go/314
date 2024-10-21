@@ -1,5 +1,5 @@
 ﻿🇨🇳斯玛特专区,#genre#
-ABC News,http://50.7.234.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d臺灣 Taiwan,#genre#
+ABC News,http://50.7.234.10:8278/abcnews_glo/tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d臺灣 Taiwan,#
 AXN,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=axn_twn&sp=chaojidianshi&sp=chaojidianshi
 CINEMAX,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=cinemax_twn&sp=chaojidianshi&sp=chaojidianshi
 EYE戲劇,http://cookies.elementfx.com/chaojidianshi/chaojidianshi.php?id=eyetvxiju_twn&sp=chaojidianshi&sp=chaojidianshi
